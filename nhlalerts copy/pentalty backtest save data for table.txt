@@ -1,0 +1,285 @@
+TOTAL FOR ALL YEARS
+Tartget Streak:  1
+Time Cutoff:  900
+total 6267
+success 3156
+failure 3111
+success rate: 50.3590
+
+
+Year:  2019-10-02
+Target Streak:  1
+Time Cutoff:  15.0  mins left
+Total bets:  627
+Sucessful bets:  313
+Failed bets:  314
+Sucess rate: 49.9203
+
+Year:  2018-10-03
+Target Streak:  1
+Time Cutoff:  15.0  mins left
+Total bets:  1177
+Sucessful bets:  621
+Failed bets:  556
+Sucess rate: 52.7613
+
+Year:  2017-10-04
+Target Streak:  1
+Time Cutoff:  15.0  mins left
+Total bets:  1162
+Sucessful bets:  570
+Failed bets:  592
+Sucess rate: 49.0534
+
+Year:  2016-10-12
+Target Streak:  1
+Time Cutoff:  15.0  mins left
+Total bets:  1124
+Sucessful bets:  557
+Failed bets:  567
+Sucess rate: 49.5552
+
+Year:  2015-10-07
+Target Streak:  1
+Time Cutoff:  15.0  mins left
+Total bets:  1082
+Sucessful bets:  547
+Failed bets:  535
+Sucess rate: 50.5545
+
+Year:  2014-10-08
+Target Streak:  1
+Time Cutoff:  15.0  mins left
+Total bets:  1095
+Sucessful bets:  548
+Failed bets:  547
+Sucess rate: 50.0457
+------------------------------------------------------------------------------
+
+TOTAL FOR ALL YEARS
+Tartget Streak:  2
+Time Cutoff:  900
+total 3099
+success 1560
+failure 1539
+success rate: 50.3388
+
+
+Year:  2019-10-02
+Target Streak:  2
+Time Cutoff:  15.0  mins left
+Total bets:  304
+Sucessful bets:  153
+Failed bets:  151
+Sucess rate: 50.3289
+
+Year:  2018-10-03
+Target Streak:  2
+Time Cutoff:  15.0  mins left
+Total bets:  587
+Sucessful bets:  311
+Failed bets:  276
+Sucess rate: 52.9813
+
+Year:  2017-10-04
+Target Streak:  2
+Time Cutoff:  15.0  mins left
+Total bets:  579
+Sucessful bets:  290
+Failed bets:  289
+Sucess rate: 50.0864
+
+Year:  2016-10-12
+Target Streak:  2
+Time Cutoff:  15.0  mins left
+Total bets:  564
+Sucessful bets:  264
+Failed bets:  300
+Sucess rate: 46.8085
+
+Year:  2015-10-07
+Target Streak:  2
+Time Cutoff:  15.0  mins left
+Total bets:  525
+Sucessful bets:  272
+Failed bets:  253
+Sucess rate: 51.8095
+
+Year:  2014-10-08
+Target Streak:  2
+Time Cutoff:  15.0  mins left
+Total bets:  540
+Sucessful bets:  270
+Failed bets:  270
+Sucess rate: 50.0000
+------------------------------------------------------------------------------
+TOTAL FOR ALL YEARS
+Tartget Streak:  3
+Time Cutoff:  900
+total 898
+success 456
+failure 442
+success rate: 50.7795
+
+
+Year:  2019-10-02
+Target Streak:  3
+Time Cutoff:  15.0  mins left
+Total bets:  85
+Sucessful bets:  42
+Failed bets:  43
+Sucess rate: 49.4118
+
+Year:  2018-10-03
+Target Streak:  3
+Time Cutoff:  15.0  mins left
+Total bets:  165
+Sucessful bets:  85
+Failed bets:  80
+Sucess rate: 51.5152
+
+Year:  2017-10-04
+Target Streak:  3
+Time Cutoff:  15.0  mins left
+Total bets:  172
+Sucessful bets:  81
+Failed bets:  91
+Sucess rate: 47.0930
+
+Year:  2016-10-12
+Target Streak:  3
+Time Cutoff:  15.0  mins left
+Total bets:  166
+Sucessful bets:  89
+Failed bets:  77
+Sucess rate: 53.6145
+
+Year:  2015-10-07
+Target Streak:  3
+Time Cutoff:  15.0  mins left
+Total bets:  160
+Sucessful bets:  78
+Failed bets:  82
+Sucess rate: 48.7500
+
+Year:  2014-10-08
+Target Streak:  3
+Time Cutoff:  15.0  mins left
+Total bets:  150
+Sucessful bets:  81
+Failed bets:  69
+Sucess rate: 54.0000
+------------------------------------------------------------------------------
+TOTAL FOR ALL YEARS
+Tartget Streak:  4
+Time Cutoff:  900
+total 188
+success 97
+failure 91
+success rate: 51.5957
+
+
+Year:  2019-10-02
+Target Streak:  4
+Time Cutoff:  15.0  mins left
+Total bets:  23
+Sucessful bets:  13
+Failed bets:  10
+Sucess rate: 56.5217
+
+Year:  2018-10-03
+Target Streak:  4
+Time Cutoff:  15.0  mins left
+Total bets:  35
+Sucessful bets:  15
+Failed bets:  20
+Sucess rate: 42.8571
+
+Year:  2017-10-04
+Target Streak:  4
+Time Cutoff:  15.0  mins left
+Total bets:  37
+Sucessful bets:  20
+Failed bets:  17
+Sucess rate: 54.0541
+
+Year:  2016-10-12
+Target Streak:  4
+Time Cutoff:  15.0  mins left
+Total bets:  31
+Sucessful bets:  18
+Failed bets:  13
+Sucess rate: 58.0645
+
+Year:  2015-10-07
+Target Streak:  4
+Time Cutoff:  15.0  mins left
+Total bets:  35
+Sucessful bets:  17
+Failed bets:  18
+Sucess rate: 48.5714
+
+Year:  2014-10-08
+Target Streak:  4
+Time Cutoff:  15.0  mins left
+Total bets:  27
+Sucessful bets:  14
+Failed bets:  13
+Sucess rate: 51.8519
+----------------------------------------------------------------
+TOTAL FOR ALL YEARS
+Tartget Streak:  5
+Time Cutoff:  900
+total 35
+success 16
+failure 19
+success rate: 45.7143
+
+
+Year:  2019-10-02
+Target Streak:  5
+Time Cutoff:  15.0  mins left
+Total bets:  4
+Sucessful bets:  2
+Failed bets:  2
+Sucess rate: 50.0000
+
+Year:  2018-10-03
+Target Streak:  5
+Time Cutoff:  15.0  mins left
+Total bets:  6
+Sucessful bets:  1
+Failed bets:  5
+Sucess rate: 16.6667
+
+Year:  2017-10-04
+Target Streak:  5
+Time Cutoff:  15.0  mins left
+Total bets:  7
+Sucessful bets:  4
+Failed bets:  3
+Sucess rate: 57.1429
+
+Year:  2016-10-12
+Target Streak:  5
+Time Cutoff:  15.0  mins left
+Total bets:  5
+Sucessful bets:  3
+Failed bets:  2
+Sucess rate: 60.0000
+
+Year:  2015-10-07
+Target Streak:  5
+Time Cutoff:  15.0  mins left
+Total bets:  7
+Sucessful bets:  5
+Failed bets:  2
+Sucess rate: 71.4286
+
+Year:  2014-10-08
+Target Streak:  5
+Time Cutoff:  15.0  mins left
+Total bets:  6
+Sucessful bets:  1
+Failed bets:  5
+Sucess rate: 16.6667
